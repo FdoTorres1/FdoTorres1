@@ -4,4 +4,3 @@ I am currently an exchange student at The University of Manchester and studying 
 
 - I have experience working with JavaScript, Python, Ruby on Rails, Docker Compose, C, AWS, Unity, and others.
 
-Want to have some fun? Check [this](https://chapro8.itch.io/game-center) out.
